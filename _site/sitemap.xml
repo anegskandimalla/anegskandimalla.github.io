@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/posts/conceptmap/</loc>
+<lastmod>2023-05-24T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/posts/labreports/</loc>
+<lastmod>2023-05-24T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/posts/likewiselearn/</loc>
+<lastmod>2023-05-24T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/posts/aclhacks23/</loc>
+<lastmod>2023-05-24T06:18:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/posts/co2/</loc>
+<lastmod>2023-05-24T06:18:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/posts/rubegoldberg/</loc>
+<lastmod>2023-05-24T06:18:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/posts/toshiba/</loc>
+<lastmod>2023-05-24T06:18:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+</urlset>

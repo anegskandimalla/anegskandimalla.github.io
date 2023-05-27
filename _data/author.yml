@@ -1,0 +1,23 @@
+name: r3sgame
+dp: https://tse3.mm.bing.net/th?id=OIP.mdcnq6veHLshIaviiDZ8bwEsEs&pid=Api
+description: "
+  <p>
+    I am Aneesh Kandimalla, a crazed software engineer and scientist. I plan on shaping the world to be more rational and compassionate.
+  </p>
+  <br/>
+  <p>
+    I perform endeavors in AI, games, physics, and data.
+  </P>
+"
+email: r3s.softlocke@gmail.com
+contact:
+  - title: linkedin
+    url: https://www.linkedin.com/in/aneeshkandimalla
+  - title: github
+    url: https://github.com/r3sgame
+  - title: twitter
+    url: https://twitter.com/r3sgame
+  - title: dev
+    url: https://dev.to/r3sgame
+  - title: email
+    url: mailto:r3s.softlocke@gmail.com
